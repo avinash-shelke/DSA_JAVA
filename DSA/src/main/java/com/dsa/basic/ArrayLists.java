@@ -69,7 +69,7 @@ public class ArrayLists {
         System.out.println("SubList: " + subList);
 
         // Example 12: Convert to Set (removes duplicates)
-        Set<Integer> st = new HashSet<>();
+        HashSet<Integer> st = new HashSet<>();
         st.addAll(arr);
         System.out.println("Set from ArrayList: " + st);
 
