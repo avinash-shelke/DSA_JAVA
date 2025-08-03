@@ -3,7 +3,7 @@ package com.dsa.questions.potd;
 
 import java.util.*;
 
-class Solution {
+class ValidSudoku {
     public boolean isValidSudoku(char[][] board) {
 
         for(int i=0;i<board.length;i++){
