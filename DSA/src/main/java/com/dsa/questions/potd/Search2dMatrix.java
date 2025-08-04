@@ -1,6 +1,7 @@
 package com.dsa.questions.potd;
 
 public class Search2dMatrix {
+    // TC: O(log(rows*cols))
     public static boolean searchMatrix(int[][] matrix, int target) {
         int rows = matrix.length;
         int cols = matrix[0].length;
