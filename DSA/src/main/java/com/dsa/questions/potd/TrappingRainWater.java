@@ -1,7 +1,7 @@
 package com.dsa.questions.potd;
 // Day - 04/08/25
 
-public class TrappingRainWater {
+public class TrappingRainWater { //TC=O(n) , SC=O(n)
 
     public enum AffixType {
         PREFIX,
